@@ -17,12 +17,15 @@
     -|test_size.npy
     -|train_lr.npy
     -|train_size.npy
+    
 -|model
   -|readme.txt
+  
 -README.MD
 -main.ipynb
+-requirements.txt
+
 ```
 ## 使用方式
-> 相信你的Fans已经看到这里了，快告诉他们如何快速上手这个项目吧~  
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)  
-B：此处由项目作者进行撰写使用方式。
+> 项目可一键运行~  
+在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/3168864)。
